@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="110554" started-at="2017-10-22T15:32:04Z" finished-at="2017-10-22T15:33:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="110554" started-at="2017-10-22T15:32:04Z" finished-at="2017-10-22T15:33:55Z">
+      <class name="zb.JodelProject">
+        <test-method status="PASS" signature="setup()[pri:0, instance:zb.JodelProject@14acaea5]" name="setup" is-config="true" duration-ms="24656" started-at="2017-10-22T21:02:04Z" finished-at="2017-10-22T21:02:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Firsttabdetails()[pri:1, instance:zb.JodelProject@14acaea5]" name="Firsttabdetails" duration-ms="5935" started-at="2017-10-22T21:02:29Z" finished-at="2017-10-22T21:02:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Firsttabdetails -->
+        <test-method status="PASS" signature="Secondtabdetails()[pri:2, instance:zb.JodelProject@14acaea5]" name="Secondtabdetails" duration-ms="1875" started-at="2017-10-22T21:02:35Z" finished-at="2017-10-22T21:02:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Secondtabdetails -->
+        <test-method status="PASS" signature="thirdtabdetails()[pri:3, instance:zb.JodelProject@14acaea5]" name="thirdtabdetails" duration-ms="2469" started-at="2017-10-22T21:02:37Z" finished-at="2017-10-22T21:02:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdtabdetails -->
+        <test-method status="PASS" signature="Backtofirsttab()[pri:4, instance:zb.JodelProject@14acaea5]" name="Backtofirsttab" duration-ms="16460" started-at="2017-10-22T21:02:39Z" finished-at="2017-10-22T21:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Backtofirsttab -->
+        <test-method status="PASS" signature="Deletejodel()[pri:5, instance:zb.JodelProject@14acaea5]" name="Deletejodel" duration-ms="3400" started-at="2017-10-22T21:02:56Z" finished-at="2017-10-22T21:02:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Deletejodel -->
+        <test-method status="PASS" signature="Swipefunction()[pri:6, instance:zb.JodelProject@14acaea5]" name="Swipefunction" duration-ms="23815" started-at="2017-10-22T21:02:59Z" finished-at="2017-10-22T21:03:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Swipefunction -->
+        <test-method status="PASS" signature="replytojodel()[pri:7, instance:zb.JodelProject@14acaea5]" name="replytojodel" duration-ms="11827" started-at="2017-10-22T21:03:23Z" finished-at="2017-10-22T21:03:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- replytojodel -->
+        <test-method status="PASS" signature="Pinthejodel()[pri:8, instance:zb.JodelProject@14acaea5]" name="Pinthejodel" duration-ms="6196" started-at="2017-10-22T21:03:35Z" finished-at="2017-10-22T21:03:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pinthejodel -->
+        <test-method status="PASS" signature="camerafunctionholdandview()[pri:9, instance:zb.JodelProject@14acaea5]" name="camerafunctionholdandview" duration-ms="13818" started-at="2017-10-22T21:03:41Z" finished-at="2017-10-22T21:03:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- camerafunctionholdandview -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:zb.JodelProject@14acaea5]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-10-22T21:03:55Z" finished-at="2017-10-22T21:03:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- zb.JodelProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
